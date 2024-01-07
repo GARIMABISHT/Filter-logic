@@ -1,0 +1,21 @@
+Go to Reports and click New Report.
+Select the Accounts report type and click Start Report.
+Click Filters, then set the Created Date range to All Time.
+On the Filter tab, click the More Actions arrow and select Add Cross Filter.
+Select a parent object from the Show Me dropdown list. 
+Your choice determines which related objects you see in the child object list. Select Accounts.
+Choose with as the operator.
+Select a child object from the Secondary Object dropdown or search by its name. Select Opportunities and click Apply.
+
+Optionally add subfilters:
+
+Click in the Add Opportunities Filter search box.
+Select a field. The child object in the cross filter determines the available fields. For example, if your cross filter is Accounts with Opportunities, you can use opportunity fields for your subfilter. Select Stage for our subfilter.
+Select equals for the operator.
+Under Value(s), select Prospecting, Qualification, Needs Analysis, and Value Proposition.
+Click Apply.
+Click Save.
+
+10. Name the report Accounts with Early Stage Opportunities, and accept the default report unique name.
+
+11. Click Save.
